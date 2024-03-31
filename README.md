@@ -7,7 +7,7 @@ I aim to be the best I can be.
 - I am from Selangor
 - I love to code and play games
 - Feel free to reach me. I'd love to connect with you!
-- 
+
 <!--
 **aiman-utm/aiman-utm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
