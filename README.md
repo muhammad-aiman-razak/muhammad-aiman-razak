@@ -3,7 +3,7 @@
 My name is Muhammad Aiman Bin Abdul Razak, currently studying in Universiti Teknologi Malaysia (UTM). I am taking Bachelors of Computer Science (Bioinformatics) (Hons).
 I aim to be the best I can be.
 
-- I am 23 years old
+- I am 24 years old
 - I am from Selangor
 - I love to code and play games
 - Feel free to reach me. I'd love to connect with you!
